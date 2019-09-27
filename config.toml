@@ -1,1 +1,5 @@
-theme = ["github.com/dougbeal/iw2019-jsonfeed2", "github.com/dougbeal/iw2019-calendar", "github.com/dougbeal/iw2019-events", "github.com/dougbeal/iw2019-podcasts", "github.com/dougbeal/iw2019-location"]
+theme = ["github.com/dougbeal/iw2019-jsonfeed2",
+ "github.com/dougbeal/iw2019-calendar",
+ "github.com/dougbeal/iw2019-events",
+ "github.com/dougbeal/iw2019-podcasts",
+ "github.com/dougbeal/iw2019-location"]

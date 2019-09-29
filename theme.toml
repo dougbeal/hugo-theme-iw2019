@@ -1,7 +1,7 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "Hugo Theme Iw2019"
+name = "Hugo Theme iw2019"
 license = "cc0"
 licenselink = "https://github.com/dougbeal/hugo-theme-iw2019/blob/master/LICENSE"
 description = "Indieweb Enabled theme using composite components"

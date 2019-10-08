@@ -1,2 +1,0 @@
-dt-end
-  {{- if .Params.mfcompat | default .Site.Params.mfcompat | default .Site.Data.default.mfcompat }} dtend{{ end -}}

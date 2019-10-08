@@ -1,2 +1,0 @@
-p-name
-  {{- if .Params.mfcompat | default .Site.Params.mfcompat | default .Site.Data.default.mfcompat }} summary{{ end -}}

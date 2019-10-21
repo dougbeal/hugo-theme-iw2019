@@ -1,0 +1,33 @@
+@import 'fontawesome/variables';
+@import 'fontawesome/mixins';
+
+.#{$fa-css-prefix},
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  width: 2em;
+  height: 2em;
+  vertical-align: -.125em;  
+}
+
+@import 'fontawesome/larger';
+@import 'fontawesome/fixed-width';
+@import 'fontawesome/list';
+@import 'fontawesome/bordered-pulled';
+@import 'fontawesome/animated';
+@import 'fontawesome/rotated-flipped';
+@import 'fontawesome/stacked';
+@import 'fontawesome/screen-reader';
+
+.#{$fa-css-prefix}-invert {
+    filter: invert(100%);
+}
